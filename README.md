@@ -7,7 +7,8 @@ with provided starter code from udacity, this web application is tested using Ja
 
 
 ## How To Run Application
-1. Clone the project repository [here](https://github.com/Raghad72/Memory-Game-.git).
+1. Clone the project repository [here](https://github.com/Raghad72/feed-reader.git
+).
 2. Load index.html in your browser .
 
 
